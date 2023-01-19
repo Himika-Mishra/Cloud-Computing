@@ -1,8 +1,6 @@
 # Cloud-Computing Project 2022-23
 
-This project revolves around the Exploratory Data Analysis of Terapixel Image Rendering in which the data is captured by the 
-
-Newcastle Urban Observatory's Super Computers.
+This project revolves around the Exploratory Data Analysis of Terapixel Image Rendering in which the data is captured by the Newcastle Urban Observatory's Super Computers.
 
 The files that are submitted via NESS are as follows:
 1. Structured Abstract
